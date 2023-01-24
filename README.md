@@ -8,7 +8,7 @@ Create a database by interpreting a diagram data model for a hospital system.
 
 - GitHub: [@JellyWiz](https://github.com/jellywiz)
 
-👤 **Didier Peran Ganthier**
+👤 **Yousef Hesham**
 
 - GitHub: [@yosefHesham](https://github.com/yosefHesham)
 
