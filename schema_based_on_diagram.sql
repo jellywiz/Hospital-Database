@@ -47,3 +47,8 @@ CREATE TABLE treatments_history (
     treatment_id INT,
     PRIMARY KEY(id)
 );
+
+CREATE INDEX patient_ids ON patients (id);
+CREATE INDEX medical_history_ids ON medical_histories (id);
+CREATE INDEX treatment_ids ON treatments (id);
+CREATE INDEX invoice_ids ON invoices (id);
